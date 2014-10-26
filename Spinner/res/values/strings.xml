@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidSpinner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="select">Choose Ayat</string>
+    <string name="select2">Choose Ayat</string>
+    <string name="button_label">Submit</string>
+
+    <string-array name="country_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+       
+    <string name="ayat_to_"> Ayat To:</string>
+    <string name="ayat_from_"> Ayat From:</string>
+     <string name="repetion_selection"> Repeat:</string>
+
+</resources>
